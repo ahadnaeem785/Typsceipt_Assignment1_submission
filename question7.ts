@@ -1,0 +1,12 @@
+let e=4
+let f=4
+console.log("Addition of : e+f =",e+f);
+let h=12
+let i=4
+console.log("Subtraction of : h-i =",h-i)
+let j=4
+let k=2
+console.log("Multiplicaion : j*k =",j*k)
+let m=16
+let p=2
+console.log("Division of : m/p =",m/p)
